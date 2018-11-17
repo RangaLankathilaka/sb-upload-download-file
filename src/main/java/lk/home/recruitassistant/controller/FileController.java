@@ -1,6 +1,6 @@
 package lk.home.recruitassistant.controller;
 
-import payload.UploadFileResponse;
+import lk.home.recruitassistant.payload.UploadFileResponse;
 import lk.home.recruitassistant.service.FileStorageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
